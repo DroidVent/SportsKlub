@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportsKlub</string>
+    <string name="home_text">Home</string>
+    <string name="football_text">Football</string>
+    <string name="banner_home_footer">ca-app-pub-3638697738765989/7299372357</string>
+    <string name="interstitial_full_screen">ca-app-pub-3638697738765989/8776105553</string>
+    <string name="no_data_found">No data found</string>
+
+</resources>
